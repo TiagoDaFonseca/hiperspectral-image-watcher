@@ -1,6 +1,6 @@
 # Hiperspectral Image Watcher
 
-Simple app that monitors a specific folder for hyperspectral data to process. This aplication intends to process automatically all hyperspectral data that are present within a specific folder,whose results are meant to be added and presented in PG-PSA platform.
+Simple app that monitors a specific folder for hyperspectral data to process. This aplication intends to process automatically all hyperspectral data that are present within a specific folder,whose results are meant to be added and presented.
 
 ## The solution
 
